@@ -1,3 +1,53 @@
 .body{
   background-color: #878282;
 }
+.headline{
+  background-color: #97DCF5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 35px;
+  margin-top: 30px;
+}
+.byline{
+  background-color: #97DCF5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-left: 40%;
+  padding-left: 30px;
+  font-size: 25px;
+
+}
+.date{
+  background-color: #97DCF5;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  margin-top: 20px;
+  margin-right: 40%;
+  padding-left: 20px;
+
+}
+
+.photo1{
+  background-color: black;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 50px;
+  color: white;
+}
+
+.photo2{
+  background-color: black;
+}
+
+
+.photo3{
+  background-color: black;
+}
+
+.photo4{
+  background-color: black;
+}
